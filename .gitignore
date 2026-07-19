@@ -1,0 +1,10 @@
+# Confidential HR / handover document — kept out of the remote by design.
+# Delivered to the user directly; not distributed via git.
+KT_Sachin_V_Patil_Center_Manager_Belagavi.docx
+
+# Local build artifacts
+node_modules/
+package.json
+package-lock.json
+*.pdf
+lo_profile/
